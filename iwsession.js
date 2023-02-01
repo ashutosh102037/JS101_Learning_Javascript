@@ -6,7 +6,7 @@ Q.2)
 let name = "Ashutosh Kumar";
 console.log(name);
 
-name = "Diwakar Upadhyay";
+name = "Diwakar Upadhyay"; // change the variable
 console.log(name);
 
 name = "Mala Devi";
